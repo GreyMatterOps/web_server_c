@@ -1,0 +1,4 @@
+*.o
+*.out
+server
+tcp_server
